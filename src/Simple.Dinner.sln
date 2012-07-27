@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple.Dinner.Web", "Simple.Dinner.Web\Simple.Dinner.csproj", "{04D6AB9F-FA38-4473-ADD7-0A192671043A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple.Dinner.Web", "Simple.Dinner.Web\Simple.Dinner.Web.csproj", "{04D6AB9F-FA38-4473-ADD7-0A192671043A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
